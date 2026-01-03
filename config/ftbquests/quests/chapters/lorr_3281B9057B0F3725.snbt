@@ -1,0 +1,104 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_3281B9057B0F3725"
+	group: "21810496BA0B5884"
+	icon: {
+		id: "malum:ether"
+	}
+	id: "3281B9057B0F3725"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "640E8D2D062D8A7A"
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				id: "3FA36BAD5BDB154C"
+				item: { count: 1, id: "malum:hex_ash" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -65.0d
+		}
+		{
+			dependencies: ["574E5C594EDEE681"]
+			id: "4F6B22853A9FD30F"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "62EA5F673EAB8B25"
+				item: { components: { "minecraft:stored_enchantments": { levels: { "malum:spirit_plunder": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+				type: "item"
+			}]
+			x: -41.5d
+			y: -46.5d
+		}
+		{
+			dependencies: ["574E5C594EDEE681"]
+			id: "40900EB74AA2F17B"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "7649AFB5DA720F23"
+				item: { components: { "minecraft:stored_enchantments": { levels: { "malum:haunted": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+				type: "item"
+			}]
+			x: -35.0d
+			y: -46.5d
+		}
+		{
+			dependencies: ["574E5C594EDEE681"]
+			id: "0B2A4FCC87763A00"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "25E8504924CAA97E"
+				item: { components: { "minecraft:stored_enchantments": { levels: { "malum:rebound": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+				type: "item"
+			}]
+			x: -29.5d
+			y: -46.5d
+		}
+		{
+			dependencies: ["574E5C594EDEE681"]
+			id: "06985C22C4AD14F0"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "0D497F11BC79A4B1"
+				item: { components: { "minecraft:stored_enchantments": { levels: { "malum:animated": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+				type: "item"
+			}]
+			x: -24.0d
+			y: -46.5d
+		}
+		{
+			dependencies: ["574E5C594EDEE681"]
+			id: "2995D42774A38110"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "1DB781786E5F25CE"
+				item: { components: { "minecraft:stored_enchantments": { levels: { "malum:ascension": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -46.5d
+		}
+		{
+			dependencies: ["640E8D2D062D8A7A"]
+			id: "574E5C594EDEE681"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "282679347631DBF9"
+				item: { count: 1, id: "malum:null_slate" }
+				type: "item"
+			}]
+			x: -29.5d
+			y: -55.5d
+		}
+	]
+}

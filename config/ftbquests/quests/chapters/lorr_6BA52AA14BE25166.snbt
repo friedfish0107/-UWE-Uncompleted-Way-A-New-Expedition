@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_6BA52AA14BE25166"
+	group: "18FB3D9F762E01B0"
+	icon: {
+		id: "magic_coins:gold_coin"
+	}
+	id: "6BA52AA14BE25166"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

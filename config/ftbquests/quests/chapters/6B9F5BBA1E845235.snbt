@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6B9F5BBA1E845235"
+	group: "4FE91EA2CEDA8019"
+	icon: {
+		components: {
+			"malum:geas_effect": {
+				geasEffectType: "malum:pact_of_the_lifeweaver"
+				isCreative: 1b
+			}
+		}
+		id: "malum:geas"
+	}
+	id: "6B9F5BBA1E845235"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

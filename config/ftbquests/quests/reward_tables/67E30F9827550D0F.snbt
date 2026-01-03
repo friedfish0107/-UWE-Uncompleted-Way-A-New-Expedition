@@ -1,0 +1,11 @@
+{
+	id: "67E30F9827550D0F"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ id: "508A1223066F3A63", item: { count: 1, id: "hazennstuff:excalibur_fragment" } }
+		{ id: "243733F75E675F6E", item: { count: 1, id: "iss_magicfromtheeast:yin_yang_core" } }
+		{ id: "2D03E5B4BEAFB1D4", item: { count: 1, id: "iss_magicfromtheeast:arcane_relics" } }
+		{ id: "486E516F6556E8A2", item: { count: 1, id: "l2complements:heirophant_green" } }
+	]
+}

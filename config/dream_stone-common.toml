@@ -1,0 +1,4 @@
+#A list of items that cannot be made unbreakable with Dream Stone.
+bannedItems = ["minecraft:barrier", "minecraft:bedrock"]
+#The text to display in the rainbow tooltip for items with RealUnbreak component.
+tooltipText = "梦之石"

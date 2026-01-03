@@ -1,0 +1,13 @@
+{
+"itemGroup.yazzsredstonegolem": "亚兹红石傀儡模组分类",
+"block.yazzsredstonegolem.example_block": "示例方块",
+"item.yazzsredstonegolem.example_item": "示例物品",
+
+"yazzsredstonegolem.configuration.title": "亚兹红石傀儡配置",
+"yazzsredstonegolem.configuration.section.yazzsredstonegolem.common.toml": "亚兹红石傀儡配置",
+"yazzsredstonegolem.configuration.section.yazzsredstonegolem.common.toml.title": "亚兹红石傀儡配置",
+"yazzsredstonegolem.configuration.items": "物品列表",
+"yazzsredstonegolem.configuration.logDirtBlock": "记录泥土方块",
+"yazzsredstonegolem.configuration.magicNumberIntroduction": "魔法数字说明",
+"yazzsredstonegolem.configuration.magicNumber": "魔法数字"
+}

@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2D0A14CE1ECA7BDD"
+	group: "4FE91EA2CEDA8019"
+	icon: {
+		components: {
+			"malum:geas_effect": {
+				geasEffectType: "malum:pact_of_contentedness"
+				isCreative: 1b
+			}
+		}
+		id: "malum:geas"
+	}
+	id: "2D0A14CE1ECA7BDD"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

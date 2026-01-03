@@ -1,0 +1,16 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_41759026E4779D5E"
+	group: "01A4637139D482C2"
+	icon: {
+		components: {
+			"ftbquests:icon": "iss_magicfromtheeast:item/yin_yang_core"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "41759026E4779D5E"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

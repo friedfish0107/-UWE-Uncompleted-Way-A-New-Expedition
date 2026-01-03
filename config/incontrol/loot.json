@@ -1,0 +1,44 @@
+[
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "minecraft:redstone_block",
+    "itemcount": "1-3",
+    "random": 1
+},
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "magic_coins:silver_coin",
+    "itemcount": "12-32",
+    "random": 0.7
+},
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "malum:ring_of_manaweaving",
+    "itemcount": "1",
+    "random": 0.5
+},
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "hazennstuff:ruptured",
+    "itemcount": "1",
+    "random": 0.5
+},
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "malum:hallowed_gold_ingot",
+    "itemcount": "2-6",
+    "random": 0.6
+},
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "minecraft:netherite_scrap",
+    "itemcount": "1-3",
+    "random": 0.15
+},
+{
+    "mob": "redstonegolem:redstone_golem",
+    "item": "magic_coins:gold_coin",
+    "itemcount": "1",
+    "random": 0.1
+}
+]

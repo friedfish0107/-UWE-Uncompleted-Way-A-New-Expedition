@@ -1,0 +1,300 @@
+{
+	autofocus_id: "0E80D95BF5C5FD76"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_38535CF329CE9256"
+	group: "18FB3D9F762E01B0"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "locusazzurro_icaruswings:ultramarine_gem"
+	}
+	id: "38535CF329CE9256"
+	images: [
+		{
+			height: 70.0d
+			image: "malum:textures/particle/radial_display.png"
+			rotation: 0.0d
+			width: 70.0d
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			click: "https://www.mcmod.cn/post/2949.html"
+			height: 20.0d
+			hover: ["精魂掉落对应生物"]
+			image: "cataclysm:textures/particle/ignis_abyss_explode_3.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 22.0d
+			y: 14.0d
+		}
+		{
+			click: "https://www.mcmod.cn/class/2130.html"
+			height: 8.0d
+			hover: ["词条系统扫盲"]
+			image: "gametechbcs_spellbooks:textures/mob_effect/frozen_sight.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -26.0d
+			y: -31.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"malum:geas_effect": {
+						geasEffectType: "malum:pact_of_the_warlock"
+						isCreative: 1b
+					}
+				}
+				id: "malum:geas"
+			}
+			id: "188C46971B0179B0"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/difficulty hard"
+					id: "449E64BDE1CF81B8"
+					permission_level: 2
+					team_reward: false
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/curios add rune @s"
+					id: "0A370A6293EE6168"
+					permission_level: 2
+					team_reward: false
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/curios add rune @s"
+					id: "598E24BE8C94048A"
+					permission_level: 2
+					team_reward: false
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/curios add rune @s"
+					id: "524C666C333065C9"
+					permission_level: 2
+					team_reward: false
+					type: "command"
+				}
+			]
+			shape: "gear"
+			size: 7.0d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				icon: {
+					id: "malum:spirit_altar"
+				}
+				id: "581A8519F019A96A"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["188C46971B0179B0"]
+			icon: {
+				id: "l2complements:soul_flame"
+			}
+			id: "4425EBAD7670CD9A"
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				id: "6D947AC017526132"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["188C46971B0179B0"]
+			icon: {
+				components: {
+					"azurelib:az_id": [I;
+						808352454
+						-907066570
+						-1996314776
+						-5773856
+					]
+				}
+				id: "enigmatic_arcana:agroconic_bulwark"
+			}
+			id: "0FEE34E155AC56E9"
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				id: "40CD7A78C79E9675"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4425EBAD7670CD9A"]
+			icon: {
+				id: "malum:fractured_zephyr_impetus"
+			}
+			id: "3AFEBD1FC03F3B7E"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "0BCDA89ED35B82DB"
+				type: "checkmark"
+			}]
+			x: -20.0d
+			y: -20.0d
+		}
+		{
+			dependencies: ["4425EBAD7670CD9A"]
+			icon: {
+				id: "locusazzurro_icaruswings:chaos_wings"
+			}
+			id: "46B4DABF5E8E4604"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "2C5240DB4E801B83"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -28.0d
+		}
+		{
+			dependencies: ["0FEE34E155AC56E9"]
+			icon: {
+				id: "dream_stone:dream_stone"
+			}
+			id: "3E670B987504CA6E"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "068DDE6A8DB027F6"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["188C46971B0179B0"]
+			icon: {
+				id: "minecraft:command_block"
+			}
+			id: "56496D12D7DCA18F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42EFB7847DB44803"
+				table_id: 6097380745984558514L
+				type: "choice"
+			}]
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				disable_toast: true
+				id: "48DBE7D17A15AB0D"
+				type: "checkmark"
+			}]
+			x: 12.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["188C46971B0179B0"]
+			icon: {
+				id: "moonlight:spawn_box"
+			}
+			id: "498E3E232D709A0D"
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				id: "304D916D5A370000"
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["188C46971B0179B0"]
+			icon: {
+				id: "magic_coins:silver_coin"
+			}
+			id: "37B31344EF5DDAC3"
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				id: "25883867A4427BDC"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["188C46971B0179B0"]
+			icon: {
+				id: "malum:iridescent_ether"
+			}
+			id: "5B5422AD87771425"
+			shape: "rsquare"
+			size: 5.0d
+			tasks: [{
+				id: "38F26BC3D07CDA63"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5B5422AD87771425"]
+			icon: {
+				id: "malum:soulbinding_brazier"
+			}
+			id: "6086B6B1A0983EB0"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "3B0DC8BFC4571CF3"
+				type: "checkmark"
+			}]
+			x: 22.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["37B31344EF5DDAC3"]
+			icon: {
+				id: "magic_coins:crystal_coin"
+			}
+			id: "118D5CB300E5F846"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "78A5B0C988C9CA33"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: -28.0d
+		}
+		{
+			dependencies: ["5B5422AD87771425"]
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "3820C95DA878589E"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "521013740AC4E9B0"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 14.0d
+		}
+	]
+}

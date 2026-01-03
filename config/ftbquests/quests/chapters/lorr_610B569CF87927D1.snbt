@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_610B569CF87927D1"
+	group: "01A4637139D482C2"
+	icon: {
+		components: {
+			"irons_spellbooks:spell_container": {
+				data: [
+					{
+						id: "irons_spellbooks:fang_strike"
+						index: 0
+						level: 6
+						locked: 1b
+					}
+					{
+						id: "irons_spellbooks:fang_ward"
+						index: 1
+						level: 4
+						locked: 1b
+					}
+					{
+						id: "irons_spellbooks:summon_vex"
+						index: 2
+						level: 4
+						locked: 1b
+					}
+				]
+				maxSpells: 10
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+		id: "irons_spellbooks:evoker_spell_book"
+	}
+	id: "610B569CF87927D1"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+}

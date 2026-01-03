@@ -1,0 +1,74 @@
+{
+	"entity.revotedwildfire.wildfire" : "野火",
+	"item.revotedwildfire.wildfire_spawn_egg" : "野火生成蛋",
+	
+	"effect.revotedwildfire.frenzy_omen" : "狂乱预兆",
+	"effect.revotedwildfire.crucible_power" : "坩埚之力",
+		
+	"block.revotedwildfire.frenzy_spawner" : "狂乱生成器",
+	"block.revotedwildfire.frenzy_spawner.desc1": "使用生成蛋互动：",
+	"block.revotedwildfire.frenzy_spawner.desc2": "添加生物类型",
+	"block.revotedwildfire.frenzy_spawner.desc3": "使用不祥瓶子互动：",
+	"block.revotedwildfire.frenzy_spawner.desc4": "设置预兆等级",
+	"block.revotedwildfire.crucible" : "坩埚",
+	"block.revotedwildfire.caged_fire" : "笼中火焰",
+			
+	"item.revotedwildfire.inferno_banner_pattern": "旗帜图案",
+	"item.revotedwildfire.inferno_banner_pattern.desc": "炼狱",
+	"block.revotedwildfire.banner.inferno.black": "黑色炼狱",
+	"block.revotedwildfire.banner.inferno.blue": "蓝色炼狱",
+	"block.revotedwildfire.banner.inferno.brown": "棕色炼狱",
+	"block.revotedwildfire.banner.inferno.cyan": "青色炼狱",
+	"block.revotedwildfire.banner.inferno.gray": "灰色炼狱",
+	"block.revotedwildfire.banner.inferno.green": "绿色炼狱",
+	"block.revotedwildfire.banner.inferno.light_blue": "浅蓝色炼狱",
+	"block.revotedwildfire.banner.inferno.light_gray": "浅灰色炼狱",
+	"block.revotedwildfire.banner.inferno.lime": "酸橙绿炼狱",
+	"block.revotedwildfire.banner.inferno.magenta": "品红色炼狱",
+	"block.revotedwildfire.banner.inferno.orange": "橙色炼狱",
+	"block.revotedwildfire.banner.inferno.pink": "粉色炼狱",
+	"block.revotedwildfire.banner.inferno.purple": "紫色炼狱",
+	"block.revotedwildfire.banner.inferno.red": "红色炼狱",
+	"block.revotedwildfire.banner.inferno.white": "白色炼狱",
+	"block.revotedwildfire.banner.inferno.yellow": "黄色炼狱",
+	  
+	"item.revotedwildfire.wildfire_fragment" : "野火碎片",
+	"item.revotedwildfire.heart_of_the_inferno" : "炼狱之心",
+	
+	"item.minecraft.firework_star.shape.revotedwildfire:wildfire" : "野火造型",
+	
+	"item.revotedwildfire.fireproof_upgrade_smithing_template" : "锻造模板",
+	"item.revotedwildfire.smithing_template.fireproof_upgrade.additions_slot_description": "添加野火碎片",
+	"item.revotedwildfire.smithing_template.fireproof_upgrade.applies_to": "任意物品",
+	"item.revotedwildfire.smithing_template.fireproof_upgrade.base_slot_description": "添加任意非防火物品",
+	"item.revotedwildfire.smithing_template.fireproof_upgrade.ingredients": "野火碎片",
+	"upgrade.revotedwildfire.fireproof_upgrade": "防火升级",
+	"item.revotedwildfire.fireproof": "防火",
+	
+	"subtitles.entity.wildfire.ambient": "野火发出刺耳声",
+	"subtitles.entity.wildfire.hurt": "野火受击",
+	"subtitles.entity.wildfire.death": "野火死亡",
+	"subtitles.entity.wildfire.slide": "野火滑行",
+	"subtitles.entity.wildfire.shoot": "野火发射",
+	"subtitles.entity.wildfire.charge": "野火冲锋",
+	"subtitles.entity.wildfire.slam": "野火猛击",
+	"subtitles.entity.wildfire.shield_hurt": "野火护盾受损",
+	"subtitles.entity.wildfire.shield_break": "野火护盾破碎",
+	"subtitles.entity.wildfire.inhale": "野火吸气",
+	"subtitles.entity.wildfire.reinforcements": "野火召唤援军",
+	
+	"subtitles.event.mob_effect.frenzy_omen": "狂乱在附近逼近",
+	
+	"subtitles.block.crucible.activate": "坩埚激活",
+	"subtitles.block.crucible.deactivate": "坩埚停用",
+	"subtitles.block.crucible.ambient": "坩埚发出嘎吱声",
+	"subtitles.block.crucible.attack": "坩埚攻击",
+	
+	"subtitles.block.frenzy_spawner.prepare": "狂乱生成器充能",
+	"subtitles.block.frenzy_spawner.prepare_wildfire": "狂乱生成器不祥充能",
+	"subtitles.block.frenzy_spawner.spawn": "狂乱生成器生成生物",
+	"subtitles.block.frenzy_spawner.spawn_wildfire": "狂乱生成器生成野火",
+	"subtitles.block.frenzy_spawner.open": "狂乱生成器开启",
+	"subtitles.block.frenzy_spawner.close": "狂乱生成器关闭"
+}
+

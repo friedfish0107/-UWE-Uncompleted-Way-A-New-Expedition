@@ -1,0 +1,10 @@
+		["Mob spawn chance (must be between 0"."0 - 1"."0)"]
+			"Puffer Nautilus" = 0.9
+			"Creeper Nautilus" = 0.05
+			Krakentilus = 0.05
+
+				["Mob spawn chance (must be between 0"."0 - 1"."Puffer Nautilus Dash Cooldown (must be between 1"."0 - 1200"."0)"]
+					Cooldown = 20.0
+
+						["Mob spawn chance (must be between 0"."0 - 1"."Puffer Nautilus Dash Cooldown (must be between 1"."0 - 1200"."LONG Iron Spear range bonus (must be between 0"."0 - 200"."0)"]
+							"Range bonus" = 6.0

@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_343EE2D7B5829AB1"
+	group: "75FA9C0760668165"
+	icon: {
+		id: "irons_spellbooks:chained_book"
+	}
+	id: "343EE2D7B5829AB1"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

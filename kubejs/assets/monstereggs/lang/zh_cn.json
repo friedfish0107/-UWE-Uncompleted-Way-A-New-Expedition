@@ -1,0 +1,18 @@
+{
+"block.monstereggs.cave_spider_egg": "神秘外壳",
+"block.monstereggs.creeper_egg": "神秘外壳",
+"block.monstereggs.enderman_egg": "神秘外壳",
+"block.monstereggs.skeleton_egg": "神秘外壳",
+"block.monstereggs.spider_egg": "神秘外壳",
+"block.monstereggs.zombie_egg": "神秘外壳",
+"itemGroup.monstereggs": "怪物蛋",
+"monstereggs.configuration.debug": "调试",
+"monstereggs.configuration.debug.tooltip": "调试设置",
+"monstereggs.configuration.debugInfo": "调试信息",
+"monstereggs.configuration.debugInfo.tooltip": "在外壳的工具提示中显示生物 [默认：否]",
+"monstereggs.configuration.general": "通用",
+"monstereggs.configuration.general.tooltip": "通用设置",
+"monstereggs.configuration.spawnOffset": "生成偏移量",
+"monstereggs.configuration.spawnOffset.tooltip": "指定生物从蛋中生成时的Y轴偏移量 [默认：0.5]",
+"monstereggs.subtitle.monster_egg.broken": "怪物蛋孵化"
+}

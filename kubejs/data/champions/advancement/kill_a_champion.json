@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "criteria": {
+    "kill_a_champion": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "champions:champion_properties",
+                "affixes": {
+                  "count": {
+                    "min": 1
+                  },
+                  "matches": {
+                    "min": 1
+                  },
+                  "values": [
+                    "champions:dampening",
+                    "champions:enkindling",
+                    "champions:hasty"
+                  ]
+                },
+                "entity": "this",
+                "tier": {}
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.champions.kill_a_champion.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:iron_sword"
+    },
+    "title": {
+      "translate": "advancements.champions.kill_a_champion.title"
+    }
+  },
+  "requirements": [
+    [
+      "kill_a_champion"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

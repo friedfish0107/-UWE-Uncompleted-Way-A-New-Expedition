@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_01372931BFAF63A6"
+	group: "25E63CC292D2AC30"
+	icon: {
+		id: "hazennstuff:shadow_scale"
+	}
+	id: "01372931BFAF63A6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

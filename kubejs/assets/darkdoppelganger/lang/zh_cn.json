@@ -1,0 +1,27 @@
+
+{
+  "item.darkdoppelganger.summon_scroll": "暗影召唤卷",
+  "item.darkdoppelganger.shadow_orb": "影蚀宝珠",
+  "item.darkdoppelganger.doppelganger_ring": "二重身魔戒",
+  "item.darkdoppelganger.elder_necklace": "古神遗链",
+  "item.darkdoppelganger.summons_necklace": "唤魔者颈饰",
+  "itemGroup.darkdoppelganger.example_tab": "暗影二重身·灾厄栏",
+  "item.darkdoppelganger.summon_scroll.tooltip": "解印此卷，召唤暗影二重身！",
+  "advancement.kill_dark_doppelganger.title": "二重身猎魂者",
+  "advancement.kill_dark_doppelganger.description": "斩灭暗影二重身，禁忌奖赏已现世！",
+
+  "advancement.summon_dark_doppelganger.title": "暗影二重身·苏醒",
+  "advancement.summon_dark_doppelganger.description": "以召唤卷为引，唤醒深渊中的暗影二重身。",
+
+  "spell.irons_spellbooks.doppel_portal": "影域穿梭",
+  "spell.darkdoppelganger.doppel_portal": "影域穿梭",
+  "tooltip.doppelganger.passive_ability": "暗影被动冷却：%s 秒",
+  "tooltip.doppelganger.health_bonus": "解锁 +%s 暗影生命值上限",
+  "tooltip.doppelganger.cooldown_reduction": "暗黑冷却缩减 %s",
+
+  "itemGroup.items.darkdoppelganger": "暗影二重身",
+  "itemGroup.item.darkdoppelganger": "暗影二重身",
+
+  "spell.irons_spellbooks.doppel_portal.guide": "踏入身前召唤的暗影之门，于数格之外的异界裂隙现身。"
+}
+

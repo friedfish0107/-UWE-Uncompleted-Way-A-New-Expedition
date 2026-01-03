@@ -1,0 +1,120 @@
+{
+  "item.codex_of_champions.flowering_pendant": "繁花吊坠",
+
+  "creativetab.codex_of_champions.crafting": "冠军法典 材料",
+
+  "creativetab.codex_of_champions.gear": "冠军法典 装备",
+
+  "item.codex_of_champions.true_fireward_ring": "烈焰守护指环",
+
+  "item.codex_of_champions.crystal_claymore": "水晶大剑",
+
+  "item.codex_of_champions.blood_soul_mask": "血魂面具",
+
+  "item.codex_of_champions.blood_soul_boots": "血魂长靴",
+
+  "item.codex_of_champions.blood_soul_robes": "血魂法袍",
+
+  "item.codex_of_champions.blood_soul_leggings": "血魂护腿",
+
+  "item.codex_of_champions.arcane_upgrade_template": "奥术升级模板",
+
+  "item.codex_of_champions.codex_of_champions_spellbook": "冠军法典",
+
+  "item.codex_of_champions.soul_forged_ingot": "魂铸锭",
+
+  "item.codex_of_champions.soulfire_greatsword": "魂火大剑",
+
+  "item.codex_of_champions.deathfire_greatsword": "死焰大剑",
+
+  "item.codex_of_champions.vampiric_charm" : "吸血符咒",
+
+  "curios.identifier.arcane_trinket" : "奥术饰品",
+
+  "curios.modifiers.arcane_trinket" : "作为奥术饰品佩戴时：",
+
+  "item.codex_of_champions.chaos_orb" : "混沌宝珠",
+
+  "item.codex_of_champions.azure_anlace" : "苍蓝短匕",
+
+  "item.codex_of_champions.royal_rose" : "皇家玫瑰",
+
+  "item.codex_of_champions.royal_anlace" : "永恒羁绊圣物",
+
+  "item.codex_of_champions.royal_anlace.desc" : "二者相依，缺一不可",
+
+  "item.codex_of_champions.royal_rose.desc" : "或许它能缔结永恒羁绊",
+
+  "item.codex_of_champions.azure_anlace.desc" : "它或许能铸就永恒契约",
+
+  "item.codex_of_champions.blaze_core" : "烈焰核心",
+
+  "item.codex_of_champions.divine_star" : "神圣之星",
+
+  "item.codex_of_champions.electrified_bronze" : "带电青铜",
+
+  "item.codex_of_champions.eternal_ice" : "永恒寒冰",
+
+  "item.codex_of_champions.gaia_fruit" : "盖亚果实",
+
+  "item.codex_of_champions.reinforced_ender_eye" : "强化末影之眼",
+
+  "item.codex_of_champions.sculk_rib" : "潜声肋条",
+
+  "item.codex_of_champions.vexed_page" : "怨念书页",
+
+  "item.codex_of_champions.wither_bone" : "凋零之骨",
+
+  "item.codex_of_champions.warden_hunter_helmet" : "大马士革头盔",
+
+  "item.codex_of_champions.warden_hunter_armor" : "大马士革胸甲",
+
+  "item.codex_of_champions.warden_hunter_leggings" : "大马士革护胫",
+
+  "item.codex_of_champions.warden_hunter_boots" : "大马士革战靴",
+
+  "item.codex_of_champions.excalibur" : "王者之剑（埃克斯卡利伯）",
+
+  "item.codex_of_champions.angelic_annhilator" : "天使毁灭者",
+
+  "item.codex_of_champions.sculk_slicer" : "潜声利刃",
+
+  "item.codex_of_champions.brutis" : "布鲁提斯（蛮力者）",
+
+  "item.codex_of_champions.thunderbringer" : "雷神之锤",
+
+  "item.codex_of_champions.worldbreaker" : "碎界者",
+
+  "item.codex_of_champions.monosword" : "单体剑",
+
+  "spell.codex_of_champions.persona_bond" : "人格羁绊",
+
+  "item.codex_of_champions.aurora_spellbook" : "北极光之书",
+
+  "item.codex_of_champions.tri_blade" : "元素三叉刃",
+
+  "item.codex_of_champions.plasmasword" : "等离子剑",
+
+  "spell.codex_of_champions.petal_step" : "花瓣步",
+
+  "spell.codex_of_champions.missile_salvo": "导弹齐射",
+
+  "item.codex_of_champions.nameless_staff": "无名法杖",
+
+  "spell.codex_of_champions.missile_salvo.guide" : "长按发射彗星弹幕，命中生物或方块后爆炸。",
+
+  "spell.codex_of_champions.petal_step.guide" : "瞬间传送至视线所及之处。传送后获得短时间真实隐形与速度加成。",
+
+  "spell.codex_of_champions.petal_blizzard.guide" : "短暂蓄力后，向视线方向释放巨大樱花龙卷风，可穿透多个生物。",
+
+  "spell.codex_of_champions.petal_blizzard" : "繁花风暴",
+
+  "item.codex_of_champions.blossom_cloak_hood" : "繁花斗篷·兜帽",
+
+  "item.codex_of_champions.blossom_cloak_robes" : "繁花斗篷·法袍",
+
+  "item.codex_of_champions.blossom_cloak_leggings" : "繁花斗篷·护腿",
+
+  "item.codex_of_champions.blossom_cloak_boots" :"繁花斗篷·长靴"
+}
+

@@ -1,0 +1,15 @@
+{
+  "tip.tcbm.bee": "蜜蜂数量：%s",
+"tip.tcbm.bee_level": "蜂蜜等级：%s",
+"tip.tcbm.empty": "空",
+"tip.tcbm.no": "未找到纸箱内的填充方块",
+"tip.tcbm.no_place": "无法在%s位置放置纸箱",
+"tip.tcbm.no_wrap": "无法用纸箱包裹%s",
+
+"block.tcbm.cardboardbox": "纸箱",
+"block.tcbm.fcardboardbox": "节日礼盒",
+
+"subtitle.tcbm.shake": "雪橇铃铛",
+
+"config.jade.plugin_tcbm.crate": "储物箱"
+}

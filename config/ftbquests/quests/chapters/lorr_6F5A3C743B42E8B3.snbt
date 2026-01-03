@@ -1,0 +1,285 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_6F5A3C743B42E8B3"
+	group: "4748124FC6586773"
+	icon: {
+		id: "minecraft:mace"
+	}
+	id: "6F5A3C743B42E8B3"
+	images: [
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -70.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -65.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -50.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -55.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -26.0d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -60.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -45.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -31.0d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -70.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -41.0d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -36.0d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 0.0d
+			width: 6.0d
+			x: -21.5d
+			y: -40.0d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -65.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -23.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -60.5d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -55.5d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -27.5d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -32.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -51.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -46.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -37.0d
+			y: -86.5d
+		}
+		{
+			height: 6.0d
+			image: "eternal_starlight:block/abyssal_fire_0"
+			order: 2
+			rotation: 180.0d
+			width: 6.0d
+			x: -41.5d
+			y: -86.5d
+		}
+		{
+			color: 4064614
+			height: 59.0d
+			image: "twilightforest:textures/magic_paintings/castaway_paradise/frame.png"
+			rotation: 0.0d
+			width: 60.0d
+			x: -46.0d
+			y: -63.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0ABDC7869F56735D"]
+			id: "42BA9D8080C2C651"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "051D2F1356863B1D"
+				structure: "minecraft:trial_chambers"
+				type: "structure"
+			}]
+			x: -60.0d
+			y: -76.5d
+		}
+		{
+			dependencies: ["0ABDC7869F56735D"]
+			id: "034A6C5D3799846D"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "0194D9627F2B5ECF"
+				structure: "minecraft:mineshaft"
+				type: "structure"
+			}]
+			x: -46.5d
+			y: -76.5d
+		}
+		{
+			dependencies: ["0ABDC7869F56735D"]
+			id: "2EF52871DCABD78A"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "443AC5202F131746"
+				structure: "minecraft:mineshaft"
+				type: "structure"
+			}]
+			x: -31.5d
+			y: -76.5d
+		}
+		{
+			icon: {
+				id: "minecraft:ominous_trial_key"
+			}
+			id: "0ABDC7869F56735D"
+			shape: "gear"
+			size: 4.0d
+			x: -46.5d
+			y: -84.0d
+		}
+		{
+			id: "3085DA31B6C2E829"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "12BCEF5F45DB4CDF"
+				item: { count: 1, id: "minecraft:mace" }
+				type: "item"
+			}]
+			x: -60.0d
+			y: -51.0d
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_462F382A5EECC87C"
+	group: "25E63CC292D2AC30"
+	icon: {
+		id: "hazennstuff:deus_essence"
+	}
+	id: "462F382A5EECC87C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_3525FBF21491C3A2"
+	group: "75FA9C0760668165"
+	icon: {
+		components: {
+			"irons_spellbooks:spell_container": {
+				data: [ ]
+				maxSpells: 12
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+		id: "irons_spellbooks:dragonskin_spell_book"
+	}
+	id: "3525FBF21491C3A2"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

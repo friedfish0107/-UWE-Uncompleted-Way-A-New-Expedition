@@ -1,0 +1,30 @@
+{
+"item_group.redstone_golem": "红石傀儡",
+"item.redstonegolem.redstone_golem_spawn_egg": "召唤红石傀儡",
+"entity.redstonegolem.redstone_golem": "红石傀儡",
+"entity.redstonegolem.vindicator_captain": "卫道士突袭队长",
+"entity.redstonegolem.pillager_captain": "掠夺者突袭队长",
+"item.redstonegolem.redstone_cube_spawn_egg": "红石方块生成蛋",
+"item.redstonegolem.vindicator_captain_spawn_egg": "卫道士突袭队长生成蛋",
+"item.redstonegolem.pillager_captain_spawn_egg": "掠夺者突袭队长生成蛋",
+"effect.redstonegolem.redstone_buff": "傀儡之力",
+
+"entity.redstonegolem.redstone_cube": "红石方块",
+
+"item.redstonegolem.outpost_key": "前哨站钥匙",
+"item.redstonegolem.swamp_key": "沼泽钥匙",
+"item.redstonegolem.forge_key": "熔炉钥匙",
+"item.redstonegolem.mines_key": "矿井钥匙",
+"item.redstonegolem.carriage_key": "马车钥匙",
+"item.redstonegolem.merchant_table": "商人工作台",
+"block.redstonegolem.merchant_table": "商人工作台",
+"entity.redstonegolem.merchant": "商人",
+"entity.redstonegolem.merchant_villager": "商人村民",
+"entity.redstonegolem.villager.ModVillagers": "商人",
+"entity.redstonegolem.villager.ModVillagerTrades": "商人",
+"entity.minecraft.villager.redstonegolem.merchant": "商人",
+"advancements.redstonegolem.kill_redstone_golem.title": "能量中止",
+"advancements.redstonegolem.kill_redstone_golem.description": "击败强大的红石傀儡。",
+"advancements.redstonegolem.root.title": "亚兹的红石傀儡",
+"advancements.redstonegolem.root.description": "与红石傀儡相关的成就。"
+}

@@ -1,0 +1,1 @@
+[{"item":"dirt","result":"soul_soil"},{"item":"brown_mushroom","result":"warped_fungus","byproducts":[{"item":"warped_fungus","minCount":1,"maxCount":1,"chance":0.1}]},{"item":"red_mushroom","result":"crimson_fungus","byproducts":[{"item":"crimson_fungus","minCount":1,"maxCount":1,"chance":0.1}]}]

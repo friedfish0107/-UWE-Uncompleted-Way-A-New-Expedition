@@ -1,0 +1,104 @@
+{
+  "levelingList": {
+    "//reference": "https://github.com/mrqx0195/Custom-Entity-Leveling/wiki",
+    "value": [
+      {
+        "id": "example_level",
+        "levelName": "Example Level",
+        "entityName": "Example Level %s",
+        "isBlackList": false,
+        "entityList": [],
+        "spawnChance": 0.0,
+        "lootTable": "minecraft:chests/simple_dungeon",
+        "attributeList": [
+          {
+            "attribute": "minecraft:generic.max_health",
+            "value": 20.0,
+            "operation": "add_value",
+            "tooltip": " - %s"
+          }
+        ],
+        "effectList": [
+          {
+            "effect": "minecraft:glowing",
+            "amplifier": 0,
+            "duration": -1,
+            "visible": false,
+            "tooltip": " - %s"
+          }
+        ],
+        "visible": true,
+        "listCommandText": " - %s",
+        "listCommandEntityText": "\n - %s",
+        "listCommandTooltips": "§eAn example entity level.\n\n§3Is Blacklist mode: %1$s\n§7Entity List: %2$s\n§aAttribute List: %3$s\n§dEffect List: %4$s\n\n§bSpawn Chance: %5$s",
+        "noticeKiller": true,
+        "noticeKillerText": "Congratulations! You killed a %1$s at level %2$s!",
+        "noticeAllPlayer": true,
+        "noticeAllPlayerText": "Congratulations! Player %1$s killed a %2$s at level %3$s!"
+      }
+    ]
+  },
+  "listCommandText": {
+    "//": [
+      "Set prompt text for '/customElementLeveling list'. Supports translatable key    ",
+      "(requires client resource pack). See:                                           ",
+      "https://minecraft.wiki/w/Resource_pack#Language                                 "
+    ],
+    "//default": "Available levels: %s",
+    "value": "Available levels: %s"
+  },
+  "reloadSuccessfulText": {
+    "//": [
+      "Set prompt text for successfully using '/customElementLeveling reload'. Supports",
+      "translatable key (requires client resource pack). See:                          ",
+      "https://minecraft.wiki/w/Resource_pack#Language                                 "
+    ],
+    "//default": "Custom Entity Leveling reload successfully!",
+    "value": "Custom Entity Leveling reload successfully!"
+  },
+  "reloadFailedText": {
+    "//": [
+      "Set prompt text for using failed '/customElementLeveling reload'. Supports      ",
+      "translatable key (requires client resource pack). See:                          ",
+      "https://minecraft.wiki/w/Resource_pack#Language                                 "
+    ],
+    "//default": "Error while reloading! View latest.log for more info.",
+    "value": "Error while reloading! View latest.log for more info."
+  },
+  "setLevelSingleSuccessfulText": {
+    "//": [
+      "Set prompt text for successfully using '/customElementLeveling setLevel' on     ",
+      "single target. Supports translatable key (requires client resource pack). See:  ",
+      "https://minecraft.wiki/w/Resource_pack#Language                                 "
+    ],
+    "//default": "Successfully set level for %s.",
+    "value": "Successfully set level for %s."
+  },
+  "setLevelMultipleSuccessfulText": {
+    "//": [
+      "Set prompt text for successfully using '/customElementLeveling setLevel' on     ",
+      "multiple targets. Supports translatable key (requires client resource pack).    ",
+      "See: https://minecraft.wiki/w/Resource_pack#Language                            "
+    ],
+    "//default": "Successfully set level for %s entities.",
+    "value": "Successfully set level for %s entities."
+  },
+  "setLevelNotFoundText": {
+    "//": [
+      "Set prompt text for level not found when using '/customElementLeveling          ",
+      "setLevel'. Supports translatable key (requires client resource pack). See:      ",
+      "https://minecraft.wiki/w/Resource_pack#Language                                 "
+    ],
+    "//default": "Cannot find level: %s!",
+    "value": "Cannot find level: %s!"
+  },
+  "setLevelFailedText": {
+    "//": [
+      "Set prompt text for using failed '/customElementLeveling setLevel'. Supports    ",
+      "translatable key (requires client resource pack). See:                          ",
+      "https://minecraft.wiki/w/Resource_pack#Language                                 "
+    ],
+    "//default": "Error while setting level! View latest.log for more info.",
+    "value": "Error while setting level! View latest.log for more info."
+  }
+}

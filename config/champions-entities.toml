@@ -1,0 +1,421 @@
+#List of entity configurations
+[[entities]]
+  entity = "redstonegolem:redstone_golem"
+  minTier = 1
+  maxTier = 2
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "whirl_wind:whirl_wind"
+  minTier = 1
+  maxTier = 2
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mutantmonsters:mutant_zombie"
+  minTier = 2
+  maxTier = 2
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "iss_magicfromtheeast:taoist"
+  minTier = 2
+  maxTier = 2
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "iss_magicfromtheeast:onmyoji"
+  minTier = 2
+  maxTier = 2
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:archevoker"
+  minTier = 2
+  maxTier = 2
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mowziesmobs:wroughtnaut"
+  minTier = 2
+  maxTier = 3
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mutantmonsters:mutant_enderman"
+  minTier = 2
+  maxTier = 3
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "remnant_bosses:remnant_ossukage"
+  minTier = 3
+  maxTier = 3
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "graveyard:lich"
+  minTier = 3
+  maxTier = 3
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "illagerinvasion:invoker"
+  minTier = 3
+  maxTier = 3
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:priest"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:apothecarist"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "minecraft:elder_guardian"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "firesenderexpansion:porphyromancer"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:cryomancer"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mowziesmobs:sculptor"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:cultist"
+  minTier = 3
+  maxTier = 4
+  presetAffixes =  []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "bosses_of_mass_destruction:lich"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mowziesmobs:umvuthi"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mutantmonsters:mutant_creeper"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:pyromancer"
+  minTier = 3
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "revotedwildfire:wildfire"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "bosses_of_mass_destruction:gauntlet"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "minecraft:warden"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "eternal_starlight:the_gatekeeper"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "minecraft:ender_dragon"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:ice_spider"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "radiation_zone_reborn:decayed_totem"
+  minTier = 4
+  maxTier = 4
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:lich"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:naga"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:minoshroom"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:hydra"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:ur_ghast"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:dead_king_corpse"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:the_harbinger"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "eternal_starlight:starlight_golem"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "bosses_of_mass_destruction:obsidilith"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:alpha_yeti"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mowziesmobs:frostmaw"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "radiation_zone_reborn:irradiant"
+  minTier = 4
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:ancient_remnant"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:knight_phantom"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "bosses_of_mass_destruction:void_blossom"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:netherite_monstrosity"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "irons_spellbooks:fire_boss"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "minecraft:wither"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "mythsandlegends:black_charro"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:scylla"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "eternal_starlight:lunar_monstrosity"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:ender_guardian"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:the_leviathan"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "twilightforest:snow_queen"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:maledictus"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "radiation_zone_reborn:silver_calamity"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "radiation_zone_reborn:wastelands_tyrant"
+  minTier = 5
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "gametechbos_spellbooks:hard_dead_king"
+  minTier = 6
+  maxTier = 6
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "cataclysm:ignis"
+  minTier = 6
+  maxTier = 6
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "darkdoppelganger:dark_doppelganger"
+  minTier = 7 
+  maxTier = 7
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"
+[[entities]]
+  entity = "darkdoppelganger:dark_doppelganger_minion"
+  minTier = 3
+  maxTier = 6
+  presetAffixes = []
+  affixList = ["champions:plagued", "champions:adaptable"]
+  affixPermission = "BLACKLIST"

@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lorr_6569A9AAB6503275"
+	group: "579CFC7AA972B593"
+	icon: {
+		components: {
+			"minecraft:potion_contents": {
+				potion: "potioncore:magic_focus"
+			}
+		}
+		id: "minecraft:potion"
+	}
+	id: "6569A9AAB6503275"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "407123A3F9BEB17D"
+		shape: "rsquare"
+		size: 3.0d
+		tasks: [{
+			id: "46B3E2BAB84AADB1"
+			item: { components: { "minecraft:potion_contents": { potion: "minecraft:awkward" } }, count: 1, id: "minecraft:potion" }
+			type: "item"
+		}]
+		x: 4.5d
+		y: -61.5d
+	}]
+}

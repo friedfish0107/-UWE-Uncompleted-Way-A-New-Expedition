@@ -1,0 +1,1250 @@
+{
+	autofocus_id: "117E9AB393E1485E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "boss"
+	group: "18FB3D9F762E01B0"
+	icon: {
+		id: "locusazzurro_icaruswings:sapphire_gem"
+	}
+	id: "0FB0CAD6EE57EA02"
+	images: [{
+		height: 110.0d
+		image: "malum:textures/vfx/area_coverage.png"
+		rotation: 0.0d
+		width: 83.0d
+		x: 16.5d
+		y: 134.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:holy_rune"
+			}
+			id: "69985E0359D68CC9"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "418D8BCFEAC38F51"
+				type: "checkmark"
+			}]
+			x: -13.5d
+			y: 133.5d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:lightning_rune"
+			}
+			id: "5D1C94F12074ED21"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "531D4C63BD2BEB0E"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 133.5d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:fire_rune"
+			}
+			id: "0C56586D456F3DE2"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "70CF5587666240B1"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 133.5d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:blood_rune"
+			}
+			id: "1D75D0B1D54FEB12"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "46CE24968942E1DB"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 133.5d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:ender_rune"
+			}
+			id: "3764E12A2764A0F6"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "5145D0A18167EAE1"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 133.5d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:nature_rune"
+			}
+			id: "661645A1E23FE53A"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "1350BF543147D164"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 135.0d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "gtbcs_geomancy_plus:geo_rune"
+			}
+			id: "77234CC08A537502"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "52BC695C93613B5F"
+				type: "checkmark"
+			}]
+			x: 45.0d
+			y: 133.5d
+		}
+		{
+			dependencies: ["740F6E74B52FD9F2"]
+			icon: {
+				id: "iss_magicfromtheeast:symmetry_rune"
+			}
+			id: "26FE6456DA335C30"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "5C528EFC3F4BEA41"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 102.0d
+		}
+		{
+			dependencies: ["740F6E74B52FD9F2"]
+			icon: {
+				id: "iss_magicfromtheeast:spirit_rune"
+			}
+			id: "1F775A2BE5BFB376"
+			optional: true
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "4D4FC0522C636E8E"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 102.0d
+		}
+		{
+			dependencies: ["740F6E74B52FD9F2"]
+			icon: {
+				id: "endersequipment:spellblade_rune"
+			}
+			id: "080766EB43A72B91"
+			optional: true
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "0BAEDF7FE965CCCD"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 102.0d
+		}
+		{
+			icon: {
+				id: "minecraft:redstone_block"
+			}
+			id: "7AD4465C93714C34"
+			shape: "rsquare"
+			size: 4.0d
+			tasks: [{
+				id: "08C30B7880DB87C5"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 92.0d
+		}
+		{
+			dependencies: ["7AD4465C93714C34"]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "malum:warp_flux"
+			}
+			id: "740F6E74B52FD9F2"
+			shape: "gear"
+			size: 4.0d
+			tasks: [{
+				id: "5F2886DD1D7BAC7D"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 98.0d
+		}
+		{
+			dependencies: [
+				"6BB6D66C2CAD9BBA"
+				"6D78B581A458D668"
+				"425275D5896167E1"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "malum:paracausal_flame"
+			}
+			id: "01FBA8D056E90FBA"
+			shape: "gear"
+			size: 4.0d
+			tasks: [{
+				id: "0880D8E1E4559703"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 122.0d
+		}
+		{
+			dependencies: ["080766EB43A72B91"]
+			icon: {
+				id: "mutantmonsters:hulk_hammer"
+			}
+			id: "3E05BD381E75EC75"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "386452BF2344EE18"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["3E05BD381E75EC75"]
+			icon: {
+				id: "mowziesmobs:wrought_axe"
+			}
+			id: "3F60B44C244A0A9A"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "70D73AB3A359983C"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 110.0d
+		}
+		{
+			dependencies: ["3F60B44C244A0A9A"]
+			icon: {
+				id: "remnant_bosses:old_skeleton_head"
+			}
+			id: "6BB6D66C2CAD9BBA"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "5221BE4520CC9F08"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 115.0d
+		}
+		{
+			dependencies: ["26FE6456DA335C30"]
+			icon: {
+				id: "iss_magicfromtheeast:yin_yang_core"
+			}
+			id: "40D0CD976DC43076"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "58DE8E081346A055"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 106.0d
+		}
+		{
+			dependencies: [
+				"40D0CD976DC43076"
+				"07457D2927E11FA3"
+			]
+			icon: {
+				id: "mutantmonsters:endersoul_hand"
+			}
+			id: "4CD062E454A1715A"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "71ADD0F540706F78"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["4CD062E454A1715A"]
+			icon: {
+				id: "graveyard:corruption"
+			}
+			id: "6D78B581A458D668"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "5CE911750F6C02F0"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 116.0d
+		}
+		{
+			dependencies: ["1F775A2BE5BFB376"]
+			icon: {
+				id: "iss_magicfromtheeast:crystallized_soul"
+			}
+			id: "07457D2927E11FA3"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "3AD54385AD7840F2"
+				type: "checkmark"
+			}]
+			x: 26.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["467ADDEA11AB5EA3"]
+			icon: {
+				id: "irons_spellbooks:magehunter"
+			}
+			id: "12DCC1F8BBC5EB64"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "54183ACE43F0EFC9"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["12DCC1F8BBC5EB64"]
+			icon: {
+				id: "illagerinvasion:primal_essence"
+			}
+			id: "425275D5896167E1"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "477BD3077B77795A"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 115.0d
+		}
+		{
+			dependencies: ["740F6E74B52FD9F2"]
+			icon: {
+				id: "irons_spellbooks:evocation_rune"
+			}
+			id: "467ADDEA11AB5EA3"
+			optional: true
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "39A09936261395EF"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 102.0d
+		}
+		{
+			dependencies: ["69985E0359D68CC9"]
+			icon: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 10
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:villager_spell_book"
+			}
+			id: "41237AD2D31A2652"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "1E183EB1CDCBCDEB"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: 140.0d
+		}
+		{
+			dependencies: ["41237AD2D31A2652"]
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "7F48F89A103AA6CD"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "5EDAD22D6184C955"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: 147.5d
+		}
+		{
+			dependencies: ["7F48F89A103AA6CD"]
+			icon: {
+				id: "twilightforest:lich_trophy"
+			}
+			id: "0A6E0001C7FB0393"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "1E5F10714F5A404E"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: 154.5d
+		}
+		{
+			dependencies: ["0A6E0001C7FB0393"]
+			icon: {
+				id: "cataclysm:necklace_of_the_desert"
+			}
+			id: "4E9B56FC04C2EF48"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "0928B3A3B9A6C43D"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: 162.5d
+		}
+		{
+			dependencies: ["57C03FD176C3D3AE"]
+			icon: {
+				id: "irons_spellbooks:permafrost_shard"
+			}
+			id: "2A20266D1350CDD0"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "6B5948D11F5FEC68"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 139.0d
+		}
+		{
+			dependencies: ["2A20266D1350CDD0"]
+			icon: {
+				id: "irons_spellbooks:icy_fang"
+			}
+			id: "626EB3A0DBDA1E95"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "2CA4B4F2CB3D5288"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 143.5d
+		}
+		{
+			dependencies: ["101BB9897E0566E6"]
+			icon: {
+				id: "twilightforest:snow_queen_trophy"
+			}
+			id: "6846652E6B1D3633"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "599A61334FD05C5D"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 156.0d
+		}
+		{
+			dependencies: ["487C158DEE96963C"]
+			icon: {
+				id: "mowziesmobs:ice_crystal"
+			}
+			id: "101BB9897E0566E6"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "75E6EFF4FDBCACDE"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 152.0d
+		}
+		{
+			dependencies: ["0C56586D456F3DE2"]
+			icon: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 10
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:blaze_spell_book"
+			}
+			id: "3DCACA20D83645A6"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "05C9A918D3210F0A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 139.0d
+		}
+		{
+			dependencies: ["3DCACA20D83645A6"]
+			icon: {
+				id: "revotedwildfire:wildfire_fragment"
+			}
+			id: "41B3F574EFC5B4F1"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "3EEF6CE5D3E74C4B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 143.0d
+		}
+		{
+			dependencies: [
+				"622A91148204F386"
+				"6D6C1EA46218F9FF"
+				"77FB1BAF2F575F93"
+				"5287CFDE7991742B"
+				"2AB1C788F9B01C5A"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "golemdungeons:flame_core"
+			}
+			id: "065065D06EEB0C3E"
+			optional: true
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "182EBFBDF5FC4B77"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 166.5d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "hazennstuff:eldritch_rune"
+			}
+			id: "47E439C1B0D0F233"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "48988A06B341BBE2"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 133.5d
+		}
+		{
+			dependencies: ["147EF667D42D620F"]
+			icon: {
+				id: "cataclysm:lava_power_cell"
+			}
+			id: "56F723DB59CCF7DC"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "19B9472106AF5C6E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 156.0d
+		}
+		{
+			dependencies: [
+				"4E9B56FC04C2EF48"
+				"5CF59FF77BAEC50C"
+				"7254989669365001"
+				"1568B90C983233FC"
+				"6D6C1EA46218F9FF"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "mythsandlegends:fire_heart"
+			}
+			id: "45228EFCF80DBB48"
+			optional: true
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "35A5728AD8A15EE9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 166.5d
+		}
+		{
+			dependencies: ["56F723DB59CCF7DC"]
+			icon: {
+				id: "irons_spellbooks:cinderous_soulcaller"
+			}
+			id: "5CF59FF77BAEC50C"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "12C2C6FCBB1D18F0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 161.0d
+		}
+		{
+			dependencies: ["1D75D0B1D54FEB12"]
+			icon: {
+				id: "irons_spellbooks:bloody_vellum"
+			}
+			id: "4E8CB9A606DBD148"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "3F411459197C6426"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 139.0d
+		}
+		{
+			dependencies: ["4E8CB9A606DBD148"]
+			icon: {
+				id: "bosses_of_mass_destruction:blazing_eye"
+			}
+			id: "3946E099EEF4CA47"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "2E3D77EF98A2BC0D"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 143.0d
+		}
+		{
+			dependencies: ["41B3F574EFC5B4F1"]
+			icon: {
+				id: "twilightforest:hydra_trophy"
+			}
+			id: "6CD54013B8EA8CF8"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "573AEC9258000A4C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 147.0d
+		}
+		{
+			dependencies: ["6CD54013B8EA8CF8"]
+			icon: {
+				id: "twilightforest:ur_ghast_trophy"
+			}
+			id: "147EF667D42D620F"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "5B144A5147AECC43"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 151.0d
+		}
+		{
+			dependencies: ["217301BA117607B8"]
+			icon: {
+				id: "mythsandlegends:ethereal_flame"
+			}
+			id: "7254989669365001"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "064E2903B57DBAF2"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 161.0d
+		}
+		{
+			dependencies: ["24D77C9BA3E6995E"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "217301BA117607B8"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "58E836DFE19D177A"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 155.0d
+		}
+		{
+			dependencies: ["6846652E6B1D3633"]
+			icon: {
+				id: "cataclysm:cursium_ingot"
+			}
+			id: "77FB1BAF2F575F93"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "07E094304F25DE98"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 161.0d
+		}
+		{
+			dependencies: ["626EB3A0DBDA1E95"]
+			icon: {
+				id: "twilightforest:alpha_yeti_trophy"
+			}
+			id: "487C158DEE96963C"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "05FCFFFB949D3B13"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 147.5d
+		}
+		{
+			dependencies: ["661645A1E23FE53A"]
+			icon: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 10
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:druidic_spell_book"
+			}
+			id: "199761B9C178BBDE"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "3596B3F5B9D97F61"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 138.5d
+		}
+		{
+			dependencies: ["199761B9C178BBDE"]
+			icon: {
+				id: "mutantmonsters:creeper_shard"
+			}
+			id: "4C4A9D76C3F018A1"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "20C6AEA39F21D30F"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 143.0d
+		}
+		{
+			dependencies: ["0DB2C401DFE9A465"]
+			icon: {
+				id: "bosses_of_mass_destruction:void_thorn"
+			}
+			id: "1568B90C983233FC"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "3BFE017C6370CA57"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 161.0d
+		}
+		{
+			dependencies: ["47E439C1B0D0F233"]
+			icon: {
+				id: "bosses_of_mass_destruction:ancient_anima"
+			}
+			id: "6F67B11367089039"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "5B1C647F67AD54BC"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 139.0d
+		}
+		{
+			dependencies: ["6F67B11367089039"]
+			icon: {
+				id: "l2complements:sculkium_ingot"
+			}
+			id: "79A44096437BC292"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "0AE374B2D54840DE"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 145.0d
+		}
+		{
+			dependencies: ["79A44096437BC292"]
+			icon: {
+				id: "cataclysm:witherite_ingot"
+			}
+			id: "7898AC814F1DDD2A"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "7CBC2AD00CF8B039"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 152.0d
+		}
+		{
+			dependencies: ["7898AC814F1DDD2A"]
+			icon: {
+				id: "radiation_zone_reborn:dust_star"
+			}
+			id: "6D6C1EA46218F9FF"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "634DB3AA869187EC"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 161.0d
+		}
+		{
+			dependencies: ["5D1C94F12074ED21"]
+			icon: {
+				id: "l2complements:guardian_eye"
+			}
+			id: "30BE47495FDC5954"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "270F95DDDB4FADB4"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 138.5d
+		}
+		{
+			dependencies: ["30BE47495FDC5954"]
+			icon: {
+				id: "eternal_starlight:book"
+			}
+			id: "621E04541A8B5B92"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "4604BA115F3E344D"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 144.5d
+		}
+		{
+			dependencies: ["621E04541A8B5B92"]
+			icon: {
+				id: "eternal_starlight:solar_egg"
+			}
+			id: "08E5C328472682CA"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "2ADB83F38977F530"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 150.5d
+		}
+		{
+			dependencies: ["08E5C328472682CA"]
+			icon: {
+				id: "cataclysm:essence_of_the_storm"
+			}
+			id: "0B5163586A96F36E"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "40B536A759D6DEDE"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 156.0d
+		}
+		{
+			dependencies: ["0B5163586A96F36E"]
+			icon: {
+				id: "eternal_starlight:starcore"
+			}
+			id: "622A91148204F386"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "6765CA88EB05977E"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: 161.0d
+		}
+		{
+			dependencies: ["3764E12A2764A0F6"]
+			icon: {
+				id: "codex_of_champions:royal_rose"
+			}
+			id: "577F19E564E43FFC"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "55EB5085A3730E5F"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 138.5d
+		}
+		{
+			dependencies: ["577F19E564E43FFC"]
+			icon: {
+				id: "irons_spellbooks:dragonskin"
+			}
+			id: "35C0B8260C25BA9C"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "7B0E58A946E71B83"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 144.5d
+		}
+		{
+			dependencies: ["35C0B8260C25BA9C"]
+			icon: {
+				id: "bosses_of_mass_destruction:obsidian_heart"
+			}
+			id: "06D12189B7AE13B4"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "6C7F20AFC32AC7FE"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 149.5d
+		}
+		{
+			dependencies: ["4C4A9D76C3F018A1"]
+			icon: {
+				id: "twilightforest:naga_trophy"
+			}
+			id: "4391517498069B7C"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "6381F1CD578E3C62"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 147.5d
+		}
+		{
+			dependencies: ["4391517498069B7C"]
+			icon: {
+				id: "twilightforest:minoshroom_trophy"
+			}
+			id: "2A4828345E5097B1"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "305AC7326392C033"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 152.0d
+		}
+		{
+			dependencies: ["2A4828345E5097B1"]
+			icon: {
+				id: "twilightforest:knight_phantom_trophy"
+			}
+			id: "0DB2C401DFE9A465"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "694AC0F782333B23"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 156.5d
+		}
+		{
+			dependencies: ["3946E099EEF4CA47"]
+			icon: {
+				id: "irons_spellbooks:chronicle"
+			}
+			id: "24D77C9BA3E6995E"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "1612442229C54ED9"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 148.0d
+		}
+		{
+			dependencies: ["06D12189B7AE13B4"]
+			icon: {
+				id: "cataclysm:void_core"
+			}
+			id: "37AB2571EB68F4A3"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "4D6228A33682DA7B"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 155.5d
+		}
+		{
+			dependencies: ["37AB2571EB68F4A3"]
+			icon: {
+				id: "cataclysm:abyssal_sacrifice"
+			}
+			id: "5287CFDE7991742B"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "5DAAFB29343FC168"
+				type: "checkmark"
+			}]
+			x: 31.5d
+			y: 161.0d
+		}
+		{
+			dependencies: ["77234CC08A537502"]
+			icon: {
+				id: "mowziesmobs:sculptor_staff"
+			}
+			id: "458B05D247C67F77"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "55EBD21FF41A1808"
+				type: "checkmark"
+			}]
+			x: 44.0d
+			y: 139.5d
+		}
+		{
+			dependencies: ["458B05D247C67F77"]
+			icon: {
+				id: "radiation_zone_reborn:radiance_crystal_shard"
+			}
+			id: "05CF70C6E60E676E"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "4F8C2D8A43858EF6"
+				type: "checkmark"
+			}]
+			x: 44.0d
+			y: 144.0d
+		}
+		{
+			dependencies: ["05CF70C6E60E676E"]
+			icon: {
+				id: "radiation_zone_reborn:giantrock_ingot"
+			}
+			id: "117E9AB393E1485E"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "3E385E7FC45B9C49"
+				type: "checkmark"
+			}]
+			x: 44.0d
+			y: 149.5d
+		}
+		{
+			dependencies: ["117E9AB393E1485E"]
+			icon: {
+				id: "radiation_zone_reborn:sedisilver_ingot"
+			}
+			id: "51F57CF106F042AF"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "1507E5C2B303CF2B"
+				type: "checkmark"
+			}]
+			x: 44.0d
+			y: 156.5d
+		}
+		{
+			dependencies: ["51F57CF106F042AF"]
+			icon: {
+				id: "radiation_zone_reborn:dustorm_eye"
+			}
+			id: "2AB1C788F9B01C5A"
+			optional: true
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "0D9E260E66ECFEA0"
+				type: "checkmark"
+			}]
+			x: 44.0d
+			y: 161.0d
+		}
+		{
+			dependencies: [
+				"45228EFCF80DBB48"
+				"065065D06EEB0C3E"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				components: {
+					"malum:geas_effect": {
+						geasEffectType: "malum:pact_of_reciprocation"
+						isCreative: 1b
+					}
+				}
+				id: "malum:geas"
+			}
+			id: "30631142D0428C34"
+			optional: true
+			shape: "gear"
+			size: 5.0d
+			tasks: [{
+				id: "605BE2F423117CAA"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 177.0d
+		}
+		{
+			dependencies: ["01FBA8D056E90FBA"]
+			icon: {
+				id: "irons_spellbooks:ice_rune"
+			}
+			id: "57C03FD176C3D3AE"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "470BC135809B3B87"
+				type: "checkmark"
+			}]
+			x: 39.0d
+			y: 135.0d
+		}
+	]
+}
